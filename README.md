@@ -10,9 +10,8 @@ Git is a version control system, a tool that tracks every single change made to 
 **Requirements**
 
 Please have Git Installed. If you dont have Git, the next section will be a guide on how to download it on macOs. 
-Please have an IDE or a text editor with python installed (Pycharm, Visual Studio Code, Juypter Notebook, Atom, Eclipse, etc)
 
-**Optional but highly recommended.**
+Please have an IDE or a text editor with python installed (Pycharm, Visual Studio Code, Juypter Notebook, Atom, Eclipse, etc)
 
 Basic or Proficient understanding in Python or another programming language.
 
