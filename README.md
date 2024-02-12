@@ -115,7 +115,7 @@ git checkout more-moods
 ```
 # Making Changes and Using Stashes (Terminal)
 
-After branching in Step 4, where you've created and switched to a new branch for development, the next step involves making changes to your project within this new branch. 
+After branching in the last step, where you've created and switched to a new branch for development, the next step involves making changes to your project within this new branch. 
 This is where you can experiment and develop new features safely, separate from the main branch. 
 
 Return to Your IDE: Make your desired changes to mood_checker.py in your IDE.
