@@ -158,13 +158,14 @@ git merge more-moods
 ```
 
 
-#Pushing To Git Hub. 
+# Pushing To Git Hub. 
 Git and GitHub are often mentioned together and work hand in hand but serve different purposes. The core difference between Git and GitHub is that Git is a version control system that allows individuals and teams to track changes to a file over time, enabling any one of them to revert to previous versions if needed.
+
 GitHub, in contrast, is a cloud-based hosting service that uses Git for version control but provides a graphical interface and additional features for collaboration across projects. 
 
 Pushing to GitHub is the process of uploading your local repository's contents to a remote repository, enabling collaboration and backup of your project online. Heres how we can do this. 
 
-Step 1. Create a Repository on Git Hub. You can name it Git Tutorial. 
+Step 1. Create a Repository on Git Hub. You can name it GitTutorial. 
 
 ![Screenshot 2024-02-11 at 11 49 49 PM](https://github.com/BrianCuellar03/GitTutorial/assets/125411833/7fc19808-73a4-4455-ac3e-8c086eda3882)
 
