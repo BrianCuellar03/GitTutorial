@@ -123,7 +123,7 @@ git stash
 ```
 This command will save your changes away, allowing you to switch branches or tasks without losing your work.
 
-#Apply Your Stash to Continue Working:
+# Apply Your Stash to Continue Working:
 
 When you're ready to continue working on the stashed changes above:
 In your terminal, run:
