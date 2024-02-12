@@ -42,7 +42,7 @@ Now that we have git installed, we can move on with the tutorial.
 
 ***Initialize a Git Repository***
 
-Create a New Directory for Your Project: Open a terminal and run:
+Create a New Directory for our Mood Checker Project: Open a terminal and run:
 
 ```
 mkdir MoodChecker
@@ -55,9 +55,11 @@ Then, run the following command in your project directory:
 git init
 ```
 
-# Creating Your Python Project (IDE)
+# Creating Your Python Project: Mood Checker (IDE)
 
-Open Your Project in your chosen IDE. I will be using Vs Code for this example: Launch Visual Studio Code and open the MoodChecker directory you created in the last step. Create a file in this MoodChecker folder and name it:
+Open Your Project in your chosen IDE. For this project, we will make a mood checker, where the script will ask the user for their mood. A response will be generated based on the users input. 
+
+I will be using Vs Code for this example: Launch Visual Studio Code and open the MoodChecker directory you created in the last step. Create a file in this MoodChecker folder and name it:
 
 ***mood_checker.py***
 
