@@ -59,7 +59,7 @@ git init
 
 Open your project in your chosen IDE. For this project, we will make a mood checker, where the script will ask the user for their mood. A response will be generated based on the users input. 
 
-I will be using Vs Code for this example: Launch Visual Studio Code and open the MoodChecker directory you created in the last step. Create a file in this MoodChecker folder and name it:
+I will be using Visual Studio Code for this example: Launch VS Code and open the MoodChecker directory you created in the last step. Create a file in this MoodChecker folder and name it:
 
 ***mood_checker.py***
 
@@ -85,7 +85,7 @@ else:
 
 # Track Your File and Commit Changes (Terminal)
 
-***Track your mew file:*** With mood_checker.py created, go back to your terminal (make sure you're in the MoodChecker directory) and run:
+***Track your new file:*** With mood_checker.py created, go back to your terminal (make sure you're in the MoodChecker directory) and run:
 ```
 git add mood_checker.py
 ```
