@@ -119,6 +119,7 @@ After branching in the last step, where you've created and switched to a new bra
 This is where you can experiment and develop new features safely, separate from the main branch. 
 
 Return to Your IDE: Make your desired changes to mood_checker.py in your IDE.
+
 ***Stash your changes:*** If at any point you need to switch to another activity or task but you're not ready to commit these changes on the branch you created, switch back to your terminal and run:
 
 ```
