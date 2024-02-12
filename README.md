@@ -186,10 +186,12 @@ git push -u origin main
 ```
 
 If steps done right and there wasnt a GitHub authentication error, this should appear in your terminal. 
+
+
 ![Screenshot 2024-02-12 at 12 03 20 AM](https://github.com/BrianCuellar03/GitTutorial/assets/125411833/46eb40fd-f5ec-4e52-b6af-d6766d0e835d)
 
 
-# Conclusion. 
+# Conclusion
 
 ***Congratulations!*** You have reached the end of the git tutorial. This tutorial covered the basics of Git, from creating a local repository, commit your work, create and switch between branches, stash and apply changes, 
 merch branches to add new changes to main branch, and push local repository onto Github for colloboration and version control.
