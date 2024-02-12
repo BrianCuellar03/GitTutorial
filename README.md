@@ -81,7 +81,7 @@ else:
     print("Hmm, I don't know that mood.")
 ```
 
-#Track Your File and Commit Changes (Terminal)
+# Track Your File and Commit Changes (Terminal)
 Track Your New File: With mood_checker.py created, go back to your terminal (make sure you're in the MoodChecker directory) and run:
 ```
 git add mood_checker.py
@@ -132,7 +132,7 @@ In your terminal, run:
 git stash pop
 ```
 
-#Committing Branch Changes (Terminal)
+# Committing Branch Changes (Terminal)
 Committing these changes in our branch allows us to capture our progress, making our experimental features a solid part of our project's history.
 
 ***Stage and Commit Your Changes:*** After editing, switch back to the terminal to add and commit these changes:
@@ -141,7 +141,7 @@ Committing these changes in our branch allows us to capture our progress, making
 git add mood_checker.py
 git commit -m "Add more moods to the script"
 ```
-#Merging Your Changes (Terminal)
+# Merging Your Changes (Terminal)
 Once we're satisfied with the developments and edits in our branch, the next step is to bring those changes back into our main project. 
 Merging allows us to integrate our new features, combining our new branch and main branch into one single version. 
 
@@ -158,7 +158,8 @@ git merge more-moods
 ```
 
 
-# Pushing To Git Hub. 
+# Pushing To GitHub (Terminal)
+
 Git and GitHub are often mentioned together and work hand in hand but serve different purposes. The core difference between Git and GitHub is that Git is a version control system that allows individuals and teams to track changes to a file over time, enabling any one of them to revert to previous versions if needed.
 
 GitHub, in contrast, is a cloud-based hosting service that uses Git for version control but provides a graphical interface and additional features for collaboration across projects. 
