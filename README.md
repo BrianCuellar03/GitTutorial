@@ -57,7 +57,7 @@ git init
 
 # Creating Your Python Project: Mood Checker (IDE)
 
-Open Your Project in your chosen IDE. For this project, we will make a mood checker, where the script will ask the user for their mood. A response will be generated based on the users input. 
+Open your project in your chosen IDE. For this project, we will make a mood checker, where the script will ask the user for their mood. A response will be generated based on the users input. 
 
 I will be using Vs Code for this example: Launch Visual Studio Code and open the MoodChecker directory you created in the last step. Create a file in this MoodChecker folder and name it:
 
@@ -84,14 +84,15 @@ else:
 ```
 
 # Track Your File and Commit Changes (Terminal)
-Track Your New File: With mood_checker.py created, go back to your terminal (make sure you're in the MoodChecker directory) and run:
+
+***Track your mew file:*** With mood_checker.py created, go back to your terminal (make sure you're in the MoodChecker directory) and run:
 ```
 git add mood_checker.py
 ```
 
 This command stages your file for the next commit.
 
-**Commit Your File:*** To commit your file to the repository with a message describing what you've done, run:
+**Commit your file:*** To commit your file to the repository with a message describing what you've done, run:
 
 ```
 git commit -m "Initial commit of mood checker script"
@@ -102,12 +103,12 @@ This saves your changes to the project's history.
 # Branching (Terminal)
 Creating a branch allows you to work on new features without affecting the main project (usually referred to as the main or master branch).
 
-***Create a New Branch:*** Let's say you want to add more moods to your script. Create a branch for this feature:
+***Create a new branch:*** Let's say you want to add more moods to your script. Create a branch for this feature:
 
 ```
 git branch more-moods
 ```
-***Switch to Your New Branch:*** Change to the new branch with:
+***Switch to your new branch:*** Change to the new branch with:
 
 ```
 git checkout more-moods
@@ -118,14 +119,14 @@ After branching in Step 4, where you've created and switched to a new branch for
 This is where you can experiment and develop new features safely, separate from the main branch. 
 
 Return to Your IDE: Make your desired changes to mood_checker.py in your IDE.
-***Stash Your Changes:*** If at any point you need to switch to another activity or task but you're not ready to commit these changes on the branch you created, switch back to your terminal and run:
+***Stash your changes:*** If at any point you need to switch to another activity or task but you're not ready to commit these changes on the branch you created, switch back to your terminal and run:
 
 ```
 git stash
 ```
 This command will save your changes away, allowing you to switch branches or tasks without losing your work.
 
-# Apply Your Stash to Continue Working:
+# Apply Your Stash to Continue Working (Terminal) 
 
 When you're ready to continue working on the stashed changes above:
 In your terminal, run:
@@ -137,7 +138,7 @@ git stash pop
 # Committing Branch Changes (Terminal)
 Committing these changes in our branch allows us to capture our progress, making our experimental features a solid part of our project's history.
 
-***Stage and Commit Your Changes:*** After editing, switch back to the terminal to add and commit these changes:
+***Stage and commit your changes:*** After editing, switch back to the terminal to add and commit these changes:
 
 ```
 git add mood_checker.py
@@ -147,13 +148,13 @@ git commit -m "Add more moods to the script"
 Once we're satisfied with the developments and edits in our branch, the next step is to bring those changes back into our main project. 
 Merging allows us to integrate our new features, combining our new branch and main branch into one single version. 
 
-***Switch Back to Main Branch:*** Use the terminal to switch branches:
+***Switch back to main branch:*** Use the terminal to switch branches by typing:
 
 ```
 git checkout main
 ```
 
-***Merge Your Feature Branch:***
+***Merge your feature branch:***
 
 ```
 git merge more-moods
