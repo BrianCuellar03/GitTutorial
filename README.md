@@ -179,7 +179,7 @@ After creating it, you will see this.
 git remote add origin <REPOSITORY_URL>
 ```
 
-***Step 3:*** Push Your Code to GitHub: Push your local repository to GitHub by typing this in your terminal:
+***Step 3:*** Push your local repository to GitHub by typing this in your terminal:
 
 ```
 git push -u origin main
