@@ -36,7 +36,7 @@ This command will return the installed version of Git, indicating that Git has b
 If this has returned an issue where the terminal says that you havent accepted the terms of service, please follow the directions given to accept in terminal. 
 
 
-# Getting Started with Git.
+# Getting Started with Git
 
 Now that we have git installed, we can move on with the tutorial. 
 
