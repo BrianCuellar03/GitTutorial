@@ -92,7 +92,7 @@ git add mood_checker.py
 
 This command stages your file for the next commit.
 
-**Commit your file:*** To commit your file to the repository with a message describing what you've done, run:
+***Commit your file:*** To commit your file to the repository with a message describing what you've done, run:
 
 ```
 git commit -m "Initial commit of mood checker script"
