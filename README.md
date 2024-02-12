@@ -56,7 +56,7 @@ Then, run the following command in your project directory:
 git init
 ```
 
-# Creating Your Python Project
+# Creating Your Python Project (IDE)
 
 Open Your Project in your chosen IDE. I will be using Vs Code for this example: Launch Visual Studio Code and open the MoodChecker directory you created in the last step. Create a file in this MoodChecker folder and name it:
 
@@ -111,7 +111,7 @@ git branch more-moods
 ```
 git checkout more-moods
 ```
-Step 5: Making Changes and Using Stashes (Terminal)
+# Making Changes and Using Stashes (Terminal)
 
 After branching in Step 4, where you've created and switched to a new branch for development, the next step involves making changes to your project within this new branch. 
 This is where you can experiment and develop new features safely, separate from the main branch. 
@@ -172,13 +172,13 @@ Step 1. Create a Repository on Git Hub. You can name it Git Tutorial.
 
 After creating it, you will see this. 
 
-Step 2: Now in your terminal, link your local repository (first repository created in beginning of tutorial) to GitHub. 
+***Step 2:*** Now in your terminal, link your local repository (first repository created in beginning of tutorial) to GitHub. 
 
 ```
 git remote add origin <REPOSITORY_URL>
 ```
 
-Step 3: Push Your Code to GitHub: Push your local repository to GitHub by typing this in your terminal:
+***Step 3:*** Push Your Code to GitHub: Push your local repository to GitHub by typing this in your terminal:
 
 ```
 git push -u origin main
@@ -188,7 +188,7 @@ If steps done right and there wasnt a GitHub authentication error, this should a
 ![Screenshot 2024-02-12 at 12 03 20 AM](https://github.com/BrianCuellar03/GitTutorial/assets/125411833/46eb40fd-f5ec-4e52-b6af-d6766d0e835d)
 
 
-#Conclusion. 
+# Conclusion. 
 
 ***Congratulations!*** You have reached the end of the git tutorial. This tutorial covered the basics of Git, from creating a local repository, commit your work, create and switch between branches, stash and apply changes, 
 merch branches to add new changes to main branch, and push local repository onto Github for colloboration and version control.
